@@ -29,7 +29,7 @@
       <item quantity="one">Umebakisha hatua <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> ili uwe msanidi programu.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Sasa wewe ni msanidi programu!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Hakuna haja, tayari wewe ni msanidi programu."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Isiyotumia waya na mitandao"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Miunganisho"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Kifaa"</string>

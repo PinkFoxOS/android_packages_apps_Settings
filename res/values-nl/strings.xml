@@ -29,7 +29,7 @@
       <item quantity="one">Je moet nog <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> stap uitvoeren om ontwikkelaar te worden.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Je bent nu ontwikkelaar!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Niet nodig, je bent al ontwikkelaar."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Draadloos en netwerken"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Verbindingen"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Apparaat"</string>

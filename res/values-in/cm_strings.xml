@@ -34,7 +34,7 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
   <string name="show_dev_on_cm">Anda adalah seorang pengembang!</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-  <string name="show_dev_already_cm">Tidak perlu, Anda telah mengaktifkan opsi pengembang.</string>
+  <string name="show_dev_already_cm">🐸❤🐙</string>
   <!-- Launch Dev Tools -->
   <string name="development_tools_title">Alat pengembangan</string>
   <!-- Development shortcut -->

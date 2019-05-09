@@ -40,7 +40,7 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
   <string name="show_dev_on">Du bass elo en Entwéckler!</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-  <string name="show_dev_already">Net néideg, du bass schonn en Entwéckler.</string>
+  <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
   <!-- Category headings in left-pane header menu -->
   <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
   <string name="header_category_wireless_networks">Kabellos an Netzwierker</string>

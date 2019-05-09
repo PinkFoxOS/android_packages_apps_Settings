@@ -29,7 +29,7 @@
       <item quantity="one">Anda kini <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> langkah daripada menjadi pembangun.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Anda kini pemaju!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Tidak perlu, anda sudah pun menjadi pembangun."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Wayarles &amp; rangkaian"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Sambungan"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Peranti"</string>

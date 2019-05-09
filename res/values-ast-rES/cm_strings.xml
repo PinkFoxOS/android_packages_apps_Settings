@@ -36,7 +36,7 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
   <string name="show_dev_on_cm">¡Agora tán activaes les opciones de desendolcu!</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-  <string name="show_dev_already_cm">Nun fai falta, yá tán activaes los axustes de desendolcu.</string>
+  <string name="show_dev_already_cm">🐸❤🐙</string>
   <!-- Launch Dev Tools -->
   <string name="development_tools_title">Ferramientes de desendolcu</string>
   <!-- Development shortcut -->

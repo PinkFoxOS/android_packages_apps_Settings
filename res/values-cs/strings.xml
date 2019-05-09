@@ -31,7 +31,7 @@
       <item quantity="one">Ještě <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> krok a bude z vás vývojář.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Voilà! Stal se z vás vývojář."</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Není potřeba, již jste vývojář."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Bezdrátová připojení a sítě"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Připojení"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Zařízení"</string>

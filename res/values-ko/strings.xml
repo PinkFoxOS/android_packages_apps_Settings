@@ -29,7 +29,7 @@
       <item quantity="one"><xliff:g id="STEP_COUNT_0">%1$d</xliff:g>단계만 더 완료하면 개발자가 될 수 있습니다.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"개발자가 되셨습니다."</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"이미 개발자입니다."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"무선 및 네트워크"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"연결"</string>
     <string name="header_category_device" msgid="4544026001618307754">"기기"</string>

@@ -29,7 +29,7 @@
       <item quantity="one">Танд одоо хөгжүүлэгч болоход <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> алхам дутуу байна.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Та одоо хөгжүүлэгч боллоо!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Шаардлагагүй, та аль хэдийн хөгжүүлэгч болсон."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Утасгүй &amp; сүлжээ"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Холболтууд"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Төхөөрөмж"</string>

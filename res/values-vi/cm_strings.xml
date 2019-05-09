@@ -34,7 +34,7 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
   <string name="show_dev_on_cm">Bạn đã bật cài đặt nhà phát triển!</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-  <string name="show_dev_already_cm">Không cần thiết, bạn đã bật cài đặt nhà phát triển.</string>
+  <string name="show_dev_already_cm">🐸❤🐙</string>
   <!-- Launch Dev Tools -->
   <string name="development_tools_title">Công cụ phát triển</string>
   <!-- Development shortcut -->

@@ -29,7 +29,7 @@
       <item quantity="one">დეველოპერობამდე <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> ნაბიჯი დაგრჩათ.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"ახლა დეველოპერი ხართ!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"არ არის საჭირო, თქვენ უკვე დეველოპერი ხართ."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"უსადენო კავშირი და ქსელები"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"კავშირები"</string>
     <string name="header_category_device" msgid="4544026001618307754">"მოწყობილობა"</string>

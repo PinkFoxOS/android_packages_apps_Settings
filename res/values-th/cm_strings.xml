@@ -28,7 +28,7 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
   <string name="show_dev_on_cm">คุณเปิดใช้งานการตั้งค่าการพัฒนาแล้ว!</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-  <string name="show_dev_already_cm">ไม่จำเป็น คุณได้เปิดใช้งานการตั้งค่าการพัฒนาแล้ว</string>
+  <string name="show_dev_already_cm">🐸❤🐙</string>
   <!-- Launch Dev Tools -->
   <string name="development_tools_title">เครื่องมือการพัฒนา</string>
   <!-- Development shortcut -->

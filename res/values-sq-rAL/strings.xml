@@ -29,7 +29,7 @@
       <item quantity="one">Tani je <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> hap larg të qenët programues.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Tani je zhvillues!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Nuk ka nevojë, ti je programues tashmë!"</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Rrjetet me valë"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Lidhjet"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Pajisja"</string>

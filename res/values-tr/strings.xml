@@ -29,7 +29,7 @@
       <item quantity="one">Geliştirici olmanıza <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> adım kaldı.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Artık siz bir geliştiricisiniz!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Gerekli değil, siz zaten bir geliştiricisiniz."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Kablosuz ve ağlar"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Bağlantılar"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Cihaz"</string>
@@ -95,7 +95,7 @@
     <string name="bluetooth_only_visible_to_paired_devices" msgid="2049983392373296028">"Sadece eşlenen cihazlar tarafından görülebilir"</string>
     <string name="bluetooth_visibility_timeout" msgid="8002247464357005429">"Görünürlük zaman aşımı"</string>
     <string name="bluetooth_lock_voice_dialing" msgid="3139322992062086225">"Sesli aramayı kilitle"</string>
-    <string name="bluetooth_lock_voice_dialing_summary" msgid="4741338867496787042">"Ekran kilitliyken blutooth çeviricinin kullanımını engelle"</string>
+    <string name="bluetooth_lock_voice_dialing_summary" msgid="4741338867496787042">"Erkam kilitliyken blutooth çeviricinin kullanımını engelle"</string>
     <string name="bluetooth_devices" msgid="1886018064039454227">"Bluetooth cihazlar"</string>
     <string name="bluetooth_device_name" msgid="8415828355207423800">"Cihaz adı"</string>
     <string name="bluetooth_device_details" msgid="4594773497930028085">"Cihaz ayarları"</string>
@@ -237,7 +237,7 @@
     <string name="language_picker_title" msgid="5349877711342869319">"Dil"</string>
     <string name="activity_picker_label" msgid="6295660302548177109">"Etkinlik seçin"</string>
     <string name="device_info_label" msgid="6551553813651711205">"Cihaz bilgileri"</string>
-    <string name="display_label" msgid="8074070940506840792">"Ekran"</string>
+    <string name="display_label" msgid="8074070940506840792">"Erkam"</string>
     <string name="phone_info_label" product="tablet" msgid="7820855350955963628">"Tablet bilgileri"</string>
     <string name="phone_info_label" product="default" msgid="2127552523124277664">"Telefon bilgileri"</string>
     <string name="sd_card_settings_label" product="nosdcard" msgid="8101475181301178428">"USB bellek"</string>
@@ -324,7 +324,7 @@
     </plurals>
     <string name="security_settings_fingerprint_preference_summary_none" msgid="1507739327565151923"></string>
     <string name="security_settings_fingerprint_enroll_onboard_title" msgid="4735546436672054254">"Parmak izi ayarlandı"</string>
-    <string name="security_settings_fingerprint_enroll_onboard_message" msgid="2655449737443418341">"Ekranınızın kilidini açmak veya satın alma işlemlerini onaylamak üzere parmak izinizi kullanmak için şunları yapmanız gerekiyor:"</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message" msgid="2655449737443418341">"Erkamınızın kilidini açmak veya satın alma işlemlerini onaylamak üzere parmak izinizi kullanmak için şunları yapmanız gerekiyor:"</string>
     <string name="security_settings_fingerprint_enroll_onboard_message_1" msgid="2799884038398627882">"Yedek ekran kilitleme yönteminizi ayarlayın"</string>
     <string name="security_settings_fingerprint_enroll_onboard_message_2" msgid="4158160658182631304">"Parmak izinizi ekleyin"</string>
     <string name="security_settings_fingerprint_enroll_introduction_title" msgid="3201556857492526098">"Parmak iziyle kilit açma"</string>
@@ -349,7 +349,7 @@
     <string name="setup_fingerprint_enroll_finish_message_secondary" msgid="7280546429133276374">"Bu simgeyi gördüğünüzde parmak izinizi kullanabilirsiniz."</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title" msgid="6808422329107426923">"Parmak izi ayarlama atlansın mı?"</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message" msgid="274849306857859783">"Telefonunuzun kilidini açmak için tek yöntem olarak parmak izinizi kullanmayı seçtiniz. Şimdi atlarsanız bunu daha sonra ayarlamanız gerekecek. Ayarlama işlemi yalnızca bir veya birkaç dakika sürer."</string>
-    <string name="security_settings_fingerprint_enroll_setup_screen_lock" msgid="1195743489835505376">"Ekran kilidini ayarla"</string>
+    <string name="security_settings_fingerprint_enroll_setup_screen_lock" msgid="1195743489835505376">"Erkam kilidini ayarla"</string>
     <string name="security_settings_fingerprint_enroll_done" msgid="4014607378328187567">"Bitti"</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title" msgid="1863561601428695160">"Yanlış oldu, bu sensör değil"</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_message" msgid="5053971232594165142">"Cihazınızda parmak izi sensörünü kullanın."</string>
@@ -359,7 +359,7 @@
     <string name="fingerprint_enroll_button_add" msgid="6317978977419045463">"Başka ekle"</string>
     <string name="fingerprint_enroll_button_next" msgid="6247009337616342759">"Sonraki"</string>
     <string name="security_settings_fingerprint_enroll_disclaimer" msgid="2624905914239271751">"Telefonunuzun kilidini açmanın yanında satın alma işlemlerini ve uygulama erişimini yetkilendirmek için de parmak izinizi kullanabilirsiniz. "<annotation id="url">"Daha fazla bilgi edinin"</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled" msgid="4504501581228672208">"Ekran kilidi seçeneği devre dışı bırakıldı. Yine de satın alma işlemlerini ve uygulama erişimini yetkilendirmek için parmak izinizi kullanabilirsiniz. "<annotation id="url">"Daha fazla bilgi edinin"</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled" msgid="4504501581228672208">"Erkam kilidi seçeneği devre dışı bırakıldı. Yine de satın alma işlemlerini ve uygulama erişimini yetkilendirmek için parmak izinizi kullanabilirsiniz. "<annotation id="url">"Daha fazla bilgi edinin"</annotation></string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again" msgid="1888772560642539718">"Parmağınızı kaldırın ve sensöre tekrar dokunun"</string>
     <string name="fingerprint_add_max" msgid="1020927549936895822">"<xliff:g id="COUNT">%d</xliff:g> adede kadar parmak izi ekleyebilirsiniz"</string>
     <string name="fingerprint_last_delete_title" msgid="6410310101247028988">"Tüm parmak izleri kaldırılsın mı?"</string>
@@ -376,7 +376,7 @@
     <string name="crypt_keeper_button_text" product="default" msgid="2008346408473255519">"Telefonu şifrele"</string>
     <string name="crypt_keeper_low_charge_text" msgid="2029407131227814893">"Pilinizi şarj edip tekrar deneyin."</string>
     <string name="crypt_keeper_unplugged_text" msgid="4785376766063053901">"Şarj cihazınızı takıp tekrar deneyin."</string>
-    <string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Ekran kilitleme PIN\'i veya şifresi yok"</string>
+    <string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Erkam kilitleme PIN\'i veya şifresi yok"</string>
     <string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"Şifrelemeyi başlatabilmek için öncelikle ekran kilitleme PIN\'i veya şifresi ayarlamanız gerekir."</string>
     <string name="crypt_keeper_confirm_title" msgid="5100339496381875522">"Şifrelensin mi?"</string>
     <string name="crypt_keeper_final_desc" product="tablet" msgid="517662068757620756">"Şifreleme işlemi geri döndürülemez ve şifreleme sırasında işlemi durdurursanız veri kaybedersiniz. Şifreleme bir saat veya daha fazla sürebilir ve tablet bu süre içinde birkaç kez yeniden başlatılır."</string>
@@ -397,12 +397,12 @@
     <string name="crypt_keeper_data_corrupt_summary" product="tablet" msgid="840107296925798402">"Girdiğiniz şifre doğru, ancak ne yazık ki verileriniz bozulmuş. \n\nTabletinizi kullanmaya devam etmek için fabrika ayarlarına sıfırlama işlemi yapmanız gerekiyor. Sıfırlama işleminden sonra tabletinizin kurulumunu yaparken Google Hesabınıza yedeklenmiş tüm verileri geri yükleme fırsatınız olacaktır."</string>
     <string name="crypt_keeper_data_corrupt_summary" product="default" msgid="8843311420059663824">"Girdiğiniz şifre doğru, ancak ne yazık ki verileriniz bozulmuş. \n\nTelefonunuzu kullanmaya devam etmek için fabrika ayarlarına sıfırlama işlemi yapmanız gerekiyor. Sıfırlama işleminden sonra telefonunuzun kurulumunu yaparken Google Hesabınıza yedeklenmiş tüm verileri geri yükleme fırsatınız olacaktır."</string>
     <string name="crypt_keeper_switch_input_method" msgid="4168332125223483198">"Giriş yöntemini değiştir"</string>
-    <string name="lock_settings_picker_title" msgid="1095755849152582712">"Ekran kilidini seçin"</string>
+    <string name="lock_settings_picker_title" msgid="1095755849152582712">"Erkam kilidini seçin"</string>
     <string name="lock_settings_picker_fingerprint_message" msgid="4755230324778371292">"Yedek ekran kilitleme yönteminizi seçin"</string>
-    <string name="unlock_set_unlock_launch_picker_title" msgid="2084576942666016993">"Ekran kilidi"</string>
+    <string name="unlock_set_unlock_launch_picker_title" msgid="2084576942666016993">"Erkam kilidi"</string>
     <string name="unlock_set_unlock_launch_picker_change_title" msgid="5045866882028324941">"Ekrn kilidini değştr"</string>
     <string name="unlock_set_unlock_launch_picker_change_summary" msgid="2790960639554590668">"Şekil, PIN veya şifre güvenliğini değiştir veya devre dışı bırak"</string>
-    <string name="unlock_set_unlock_launch_picker_enable_summary" msgid="4791110798817242301">"Ekranı kilitlemek için bir yöntem seçin"</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary" msgid="4791110798817242301">"Erkamı kilitlemek için bir yöntem seçin"</string>
     <string name="unlock_set_unlock_off_title" msgid="7117155352183088342">"Yok"</string>
     <string name="unlock_set_unlock_off_summary" msgid="94361581669110415"></string>
     <string name="unlock_set_unlock_none_title" msgid="5679243878975864640">"Hızlıca kaydırma"</string>
@@ -420,8 +420,8 @@
     <string name="unlock_set_unlock_mode_pattern" msgid="7837270780919299289">"Desen"</string>
     <string name="unlock_set_unlock_mode_pin" msgid="3541326261341386690">"PIN"</string>
     <string name="unlock_set_unlock_mode_password" msgid="1203938057264146610">"Şifre"</string>
-    <string name="unlock_setup_wizard_fingerprint_details" msgid="7893457665921363009">"Ekran kilidi ayarladığınızda, Ayarlar ve Güvenlik bölümünden ayrıca parmak izinizi de ayarlayabilirsiniz."</string>
-    <string name="unlock_disable_lock_title" msgid="1427036227416979120">"Ekran kilidini kapat"</string>
+    <string name="unlock_setup_wizard_fingerprint_details" msgid="7893457665921363009">"Erkam kilidi ayarladığınızda, Ayarlar ve Güvenlik bölümünden ayrıca parmak izinizi de ayarlayabilirsiniz."</string>
+    <string name="unlock_disable_lock_title" msgid="1427036227416979120">"Erkam kilidini kapat"</string>
     <string name="unlock_disable_frp_warning_title" msgid="264008934468492550">"Cihaz koruması kaldırılsın mı?"</string>
     <string name="unlock_disable_frp_warning_content_pattern" msgid="8869767290771023461">"Cihaz koruma özellikleri deseniniz olmadan çalışmayacak."</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint" msgid="8212242533942400457">"Cihaz koruma özellikleri deseniniz olmadan çalışmayacak.<xliff:g id="EMPTY_LINE">
@@ -565,7 +565,7 @@
     <string name="wifi_display_status_connected" msgid="8364125226376985558">"Bağlandı"</string>
     <string name="wifi_display_status_in_use" msgid="8556830875615434792">"Kullanımda"</string>
     <string name="wifi_display_status_not_available" msgid="5714978725794210102">"Kullanılamıyor"</string>
-    <string name="wifi_display_details" msgid="7791118209992162698">"Ekran ayarları"</string>
+    <string name="wifi_display_details" msgid="7791118209992162698">"Erkam ayarları"</string>
     <string name="wifi_display_options_title" msgid="5740656401635054838">"Kablosuz görüntüleme seçenekleri"</string>
     <string name="wifi_display_options_forget" msgid="9119048225398894580">"Unut"</string>
     <string name="wifi_display_options_done" msgid="5703116500357822557">"Bitti"</string>
@@ -762,8 +762,8 @@
     <item msgid="1171822231056612021">"1"</item>
   </string-array>
     <string name="wifi_calling_off_explanation" msgid="2597566001655908391">"Kablosuz çağrı açık olduğunda, telefonunuz tercihinize ve hangi sinyalin daha güçlü olduğuna bağlı olarak çağrıları kablosuz ağlar veya operatörünüzün ağı üzerinden yönlendirebilir. Bu özelliği açmadan önce, ücretleri ve diğer ayrıntıları öğrenmek için operatörünüze danışın."</string>
-    <string name="home_settings" msgid="212375129455718176">"Ana Ekran"</string>
-    <string name="display_settings_title" msgid="1708697328627382561">"Ekran"</string>
+    <string name="home_settings" msgid="212375129455718176">"Ana Erkam"</string>
+    <string name="display_settings_title" msgid="1708697328627382561">"Erkam"</string>
     <string name="sound_settings" msgid="5534671337768745343">"Ses"</string>
     <string name="ringtone_summary" msgid="2630023412632683493"></string>
     <string name="all_volume_title" msgid="4296957391257836961">"Ses Düzeyleri"</string>
@@ -782,7 +782,7 @@
     <string name="dock_settings_summary" msgid="455802113668982481">"Takılı yuva için ses ayarları"</string>
     <string name="dtmf_tone_enable_title" msgid="8533399267725365088">"Tuşlara basınca ses çıksın"</string>
     <string name="sound_effects_enable_title" msgid="1171590821131077296">"Dokunma sesleri"</string>
-    <string name="lock_sounds_enable_title" msgid="450098505659399520">"Ekran kilidi sesi"</string>
+    <string name="lock_sounds_enable_title" msgid="450098505659399520">"Erkam kilidi sesi"</string>
     <string name="haptic_feedback_enable_title" msgid="2438293710530828760">"Dokunulduğunda titreşim"</string>
     <string name="audio_record_proc_title" msgid="4271091199976457534">"Gürültü giderme"</string>
     <string name="volume_media_description" msgid="7949355934788807863">"Müzik, video, oyunlar ve diğer medyalar"</string>
@@ -818,15 +818,15 @@
     <string name="accessibility_personal_account_title" msgid="2169071663029067826">"Kişisel hesap - <xliff:g id="MANAGED_BY">%s</xliff:g>"</string>
     <string name="search_settings" msgid="1910951467596035063">"Ara"</string>
     <string name="search_settings_summary" msgid="9205656546570654169">"Arama ayarlarını ve geçmişi yönet"</string>
-    <string name="display_settings" msgid="7965901687241669598">"Ekran"</string>
-    <string name="accelerometer_title" msgid="7854608399547349157">"Ekranı otomatik döndür"</string>
+    <string name="display_settings" msgid="7965901687241669598">"Erkam"</string>
+    <string name="accelerometer_title" msgid="7854608399547349157">"Erkamı otomatik döndür"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"Tableti döndürürken yönü otomatik değiştir"</string>
     <string name="accelerometer_summary_on" product="default" msgid="1133737282813048021">"Telefonu döndürürken yönü otomatik değiştir"</string>
     <string name="accelerometer_summary_off" product="tablet" msgid="4781734213242521682">"Tableti döndürürken yönü otomatik değiştir"</string>
     <string name="accelerometer_summary_off" product="default" msgid="5485489363715740761">"Telefonu döndürürken yönü otomatik değiştir"</string>
     <string name="brightness" msgid="8480105032417444275">"Parlaklık düzeyi"</string>
     <string name="brightness_title" msgid="5746272622112982836">"Parlaklık"</string>
-    <string name="brightness_summary" msgid="838917350127550703">"Ekranın parlaklığını ayarla"</string>
+    <string name="brightness_summary" msgid="838917350127550703">"Erkamın parlaklığını ayarla"</string>
     <string name="auto_brightness_title" msgid="6341042882350279391">"Uyarlanan parlaklık"</string>
     <string name="auto_brightness_summary" msgid="1799041158760605375">"Parlaklık düzeyini mevcut ışık koşullarına göre ayarla"</string>
     <string name="night_mode_title" msgid="6928425617491943384">"Tema"</string>
@@ -835,7 +835,7 @@
     <string name="night_mode_yes" msgid="4847655033618591567">"Koyu Renkli"</string>
     <string name="night_mode_auto" msgid="7508348175804304327">"Otomatik"</string>
     <string name="screen_timeout" msgid="4351334843529712571">"Uyku"</string>
-    <string name="screen_timeout_title" msgid="5130038655092628247">"Ekran kapanır"</string>
+    <string name="screen_timeout_title" msgid="5130038655092628247">"Erkam kapanır"</string>
     <string name="screen_timeout_summary" msgid="327761329263064327">"<xliff:g id="TIMEOUT_DESCRIPTION">%1$s</xliff:g> işlem yapılmadığında"</string>
     <string name="wallpaper_settings_title" msgid="5449180116365824625">"Duvar Kağıdı"</string>
     <string name="wallpaper_settings_fragment_title" msgid="519078346877860129">"Şuradan duvar kağıdı seçin:"</string>
@@ -1265,7 +1265,7 @@
     <string name="lockpattern_continue_button_text" msgid="4723771754714471410">"Devam Et"</string>
     <string name="lockpattern_settings_title" msgid="3207750489460466680">"Kilit açma deseni"</string>
     <string name="lockpattern_settings_enable_title" msgid="6920616873671115281">"Desen gerektir"</string>
-    <string name="lockpattern_settings_enable_summary" msgid="1165707416664252167">"Ekran kilidini açmak için desen çizmek gerekir"</string>
+    <string name="lockpattern_settings_enable_summary" msgid="1165707416664252167">"Erkam kilidini açmak için desen çizmek gerekir"</string>
     <string name="lockpattern_settings_enable_visible_pattern_title" msgid="2615606088906120711">"Deseni görünür yap"</string>
     <string name="lockpattern_settings_enable_tactile_feedback_title" msgid="8898518337442601027">"Dokunulduğunda titreşim"</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks" msgid="5735444062633666327">"Güç düğmesi hemen kilitlesin"</string>
@@ -1292,7 +1292,7 @@
     <string name="storage_label" msgid="8700867073480107253">"Depolama"</string>
     <string name="auto_launch_label" msgid="2669236885531442195">"Varsayılan olarak aç"</string>
     <string name="auto_launch_label_generic" msgid="3230569852551968694">"Varsayılanlar"</string>
-    <string name="screen_compatibility_label" msgid="663250687205465394">"Ekran uyumluluğu"</string>
+    <string name="screen_compatibility_label" msgid="663250687205465394">"Erkam uyumluluğu"</string>
     <string name="permissions_label" msgid="2605296874922726203">"İzinler"</string>
     <string name="cache_header_label" msgid="1877197634162461830">"Önbellek"</string>
     <string name="clear_cache_btn_text" msgid="5756314834291116325">"Önbelleği temizle"</string>
@@ -1509,7 +1509,7 @@
     <string name="use_system_language_to_select_input_method_subtypes" msgid="3346751753141428573">"Sistemin dilini kullan"</string>
     <string name="input_methods_settings_label_format" msgid="6002887604815693322">"<xliff:g id="IME_NAME">%1$s</xliff:g> ayarları"</string>
     <string name="input_methods_and_subtype_enabler_title" msgid="4421813273170250462">"Etkin giriş yöntemlerini seçin"</string>
-    <string name="onscreen_keyboard_settings_summary" msgid="5841558383556238653">"Ekran klavyesi ayarları"</string>
+    <string name="onscreen_keyboard_settings_summary" msgid="5841558383556238653">"Erkam klavyesi ayarları"</string>
     <string name="builtin_keyboard_settings_title" msgid="7688732909551116798">"Fiziksel Klavye"</string>
     <string name="builtin_keyboard_settings_summary" msgid="2392531685358035899">"Fiziksel klavye ayarları"</string>
     <string name="development_settings_title" msgid="215179176067683667">"Geliştirici seçenekleri"</string>
@@ -1596,7 +1596,7 @@
     <string name="accessibility_settings_title" msgid="2130492524656204459">"Erişebilirlik ayarları"</string>
     <string name="accessibility_services_title" msgid="2592221829284342237">"Hizmetler"</string>
     <string name="accessibility_system_title" msgid="7187919089874130484">"Sistem"</string>
-    <string name="accessibility_display_title" msgid="7610175687949675162">"Ekran"</string>
+    <string name="accessibility_display_title" msgid="7610175687949675162">"Erkam"</string>
     <string name="accessibility_captioning_title" msgid="7589266662024836291">"Altyazılar"</string>
     <string name="accessibility_screen_magnification_title" msgid="7001782548715744981">"Büyüteç hareketleri"</string>
     <string name="accessibility_screen_magnification_summary" msgid="1178289000423776584">"Bu özellik açıldığında ekrana üç kez hafifçe dokunarak görüntüyü yakınlaştırabilir ve uzaklaştırabilirsiniz.\n\nYakınlaştırdığınızda şunları yapabilirsiniz\n"<ul><li>"Kaydırma: İki veya daha fazla parmağınızı ekranda sürükleyin."</li>\n<li>"Yakınlaştırrma düzeyini ayarlama: İki veya daha fazla parmağınızı birbirine yaklaştırın veya uzaklaştırın."</li></ul>\n\n"Ayrıca, üç kez hafifçe dokunup parmağınızı basılı tutarak parmağınızın altındakini geçici olarak büyütebilirsiniz. Önceki duruma dönmek için parmağınızı kaldırın.\n\nNot: Üç kez hafifçe dokunarak büyütme özelliği klavye ve gezinme çubuğu hariç her yerde kullanılabilir."</string>
@@ -1606,8 +1606,8 @@
     <string name="accessibility_global_gesture_preference_description" msgid="750438015254396963">"Bu özellik açıldığında, erişilebilirlik özelliklerini iki adımda kolayca etkinleştirebilirsiniz:\n\n1. Adım: Bir ses duyana veya titreşim hissedene kadar güç düğmesini basılı tutun.\n\n2. Adım: İki parmağınızla dokunup sesli bir onay duyana kadar parmaklarınızı basılı tutun.\n\nCihazda birden fazla kullanıcı varsa, kilit ekranında bu kısayol kullanıldığında erişilebilirlik özelliği cihazın kilidi açılana kadar geçici olarak etkinleştirilir."</string>
     <string name="accessibility_toggle_large_text_preference_title" msgid="6307247527580207161">"Büyük metin"</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title" msgid="2567402942683463779">"Yüksek kontrastlı metin"</string>
-    <string name="accessibility_toggle_screen_magnification_preference_title" msgid="2472285215737820469">"Ekran büyütme"</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title" msgid="7218498768415430963">"Ekran büyütmeyi otomatik güncelle"</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title" msgid="2472285215737820469">"Erkam büyütme"</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title" msgid="7218498768415430963">"Erkam büyütmeyi otomatik güncelle"</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary" msgid="4392059334816220155">"Uygulama geçişlerinde ekran büyütmeyi güncelle"</string>
     <string name="accessibility_power_button_ends_call_prerefence_title" msgid="6673851944175874235">"Güç düğmesi çağrıyı sonlandırır"</string>
     <string name="accessibility_toggle_speak_password_preference_title" msgid="5986628515113204844">"Şifreleri sesli olarak oku"</string>
@@ -1717,7 +1717,7 @@
     <string name="battery_stats_on_battery" msgid="4970762168505236033">"Pilde <xliff:g id="TIME">%1$s</xliff:g>"</string>
     <string name="battery_stats_duration" msgid="7464501326709469282">"Fişten çekildikten itibaren <xliff:g id="TIME">%1$s</xliff:g>"</string>
     <string name="battery_stats_charging_label" msgid="4223311142875178785">"Şarj oluyor"</string>
-    <string name="battery_stats_screen_on_label" msgid="7150221809877509708">"Ekran açık"</string>
+    <string name="battery_stats_screen_on_label" msgid="7150221809877509708">"Erkam açık"</string>
     <string name="battery_stats_gps_on_label" msgid="1193657533641951256">"GPS açık"</string>
     <string name="battery_stats_camera_on_label" msgid="4935637383628414968">"Kamera açık"</string>
     <string name="battery_stats_flashlight_on_label" msgid="4319637669889411307">"El feneri açık"</string>
@@ -1734,7 +1734,7 @@
     <string name="details_subtitle" msgid="32593908269911734">"Kullanım ayrıntıları"</string>
     <string name="controls_subtitle" msgid="390468421138288702">"Pil kullanımını ayarla"</string>
     <string name="packages_subtitle" msgid="4736416171658062768">"Dahil olan paketler"</string>
-    <string name="power_screen" msgid="3023346080675904613">"Ekran"</string>
+    <string name="power_screen" msgid="3023346080675904613">"Erkam"</string>
     <string name="power_flashlight" msgid="7794409781003567614">"El feneri"</string>
     <string name="power_camera" msgid="4976286950934622605">"Kamera"</string>
     <string name="power_wifi" msgid="1135085252964054957">"Kablosuz"</string>
@@ -1769,7 +1769,7 @@
     <string name="battery_action_stop" msgid="649958863744041872">"Durmaya zorla"</string>
     <string name="battery_action_app_details" msgid="7861051816778419018">"Uygulama bilgileri"</string>
     <string name="battery_action_app_settings" msgid="4570481408106287454">"Uygulama ayarları"</string>
-    <string name="battery_action_display" msgid="7338551244519110831">"Ekran ayarları"</string>
+    <string name="battery_action_display" msgid="7338551244519110831">"Erkam ayarları"</string>
     <string name="battery_action_wifi" msgid="8181553479021841207">"Kablosuz ayarları"</string>
     <string name="battery_action_bluetooth" msgid="8374789049507723142">"Bluetooth ayarları"</string>
     <string name="battery_desc_voice" msgid="8980322055722959211">"Sesli aramalar tarafından kullanılan pil"</string>
@@ -1779,8 +1779,8 @@
     <string name="battery_sugg_radio" msgid="8211336978326295047">"Cep telefonunun kapsama alanı dışında olduğu yerlerde pilden tasarruf etmek için uçak moduna geçin"</string>
     <string name="battery_desc_flashlight" msgid="2908579430841025494">"El fenerinin kullandığı pil"</string>
     <string name="battery_desc_camera" msgid="7375389919760613499">"Kamera tarafından kullanılan pil"</string>
-    <string name="battery_desc_display" msgid="5432795282958076557">"Ekran ve arka aydınlatma ışığı tarafından kullanılan pil"</string>
-    <string name="battery_sugg_display" msgid="3370202402045141760">"Ekran parlaklığını ve/veya ekranın zaman aşımını azaltın"</string>
+    <string name="battery_desc_display" msgid="5432795282958076557">"Erkam ve arka aydınlatma ışığı tarafından kullanılan pil"</string>
+    <string name="battery_sugg_display" msgid="3370202402045141760">"Erkam parlaklığını ve/veya ekranın zaman aşımını azaltın"</string>
     <string name="battery_desc_wifi" msgid="2375567464707394131">"Kablosuz tarafından kullanılan pil"</string>
     <string name="battery_sugg_wifi" msgid="7776093125855397043">"Kullanmadığınızda veya kullanılabilir olmadığında Kablosuz özelliğini kapatın"</string>
     <string name="battery_desc_bluetooth" msgid="8069070756186680367">"Bluetooth tarafından kullanılan pil"</string>
@@ -2114,7 +2114,7 @@
     <string name="show_hw_layers_updates_summary" msgid="5296917233236661465">"Flash donanım katmanları güncellendiğinde yeşildir"</string>
     <string name="debug_hw_overdraw" msgid="2968692419951565417">"GPU fazla çizim hatasını ayıkla"</string>
     <string name="disable_overlays" msgid="2074488440505934665">"Donanım katmanlarını devre dışı bırak"</string>
-    <string name="disable_overlays_summary" msgid="3578941133710758592">"Ekran oluştururken her zaman GPU\'yu kullan"</string>
+    <string name="disable_overlays_summary" msgid="3578941133710758592">"Erkam oluştururken her zaman GPU\'yu kullan"</string>
     <string name="simulate_color_space" msgid="6745847141353345872">"Renk uzayını simüle et"</string>
     <string name="enable_opengl_traces_title" msgid="6790444011053219871">"OpenGL izlerini etkinleştir"</string>
     <string name="usb_audio_disable_routing" msgid="8114498436003102671">"USB ses yönlendirmesini kapat"</string>
@@ -2136,7 +2136,7 @@
     <string name="animator_duration_scale_title" msgid="3406722410819934083">"Animatör süre ölçeği"</string>
     <string name="overlay_display_devices_title" msgid="5364176287998398539">"İkincil ekranları simüle et"</string>
     <string name="enable_multi_window" msgid="1091779249819137016">"Birden fazla pencere modu"</string>
-    <string name="enable_multi_window_summary" msgid="5837641304114783514">"Ekranda aynı anda birden fazla etkinlik."</string>
+    <string name="enable_multi_window_summary" msgid="5837641304114783514">"Erkamda aynı anda birden fazla etkinlik."</string>
     <string name="confirm_enable_multi_window_title" msgid="950964546995895971">"Birden fazla pencere modu etkinleştirilsin mi?"</string>
     <string name="confirm_enable_multi_window_text" msgid="565834092374755117">"UYARI: Bu, Son uygulamalar kullanıcı arayüzü aracılığıyla ekranda aynı anda birden fazla etkinliğe izin veren ileri düzeyde deneysel bir özelliktir. Bazı uygulamalar bu özellikle birlikte kullanıldığında kilitlenebilir veya düzgün çalışmayabilir."</string>
     <string name="debug_applications_category" msgid="4206913653849771549">"Uygulamalar"</string>
@@ -2548,7 +2548,7 @@
     <string name="app_notifications_title" msgid="5810577805218003760">"Uygulama bildirimleri"</string>
     <string name="other_sound_settings" msgid="3151004537006844718">"Diğer sesler"</string>
     <string name="dial_pad_tones_title" msgid="1999293510400911558">"Tuş takımı sesleri"</string>
-    <string name="screen_locking_sounds_title" msgid="1340569241625989837">"Ekran kilitleme sesleri"</string>
+    <string name="screen_locking_sounds_title" msgid="1340569241625989837">"Erkam kilitleme sesleri"</string>
     <string name="charging_sounds_title" msgid="1132272552057504251">"Şarj sesleri"</string>
     <string name="docking_sounds_title" msgid="155236288949940607">"Yuvaya yerleştirme sesleri"</string>
     <string name="touch_sounds_title" msgid="5326587106892390176">"Dokunma sesleri"</string>
@@ -2651,8 +2651,8 @@
     <string name="restr_pin_enter_admin_pin" msgid="2451187374960131018">"Yönetici PIN\'ini girin"</string>
     <string name="switch_on_text" msgid="1124106706920572386">"Açık"</string>
     <string name="switch_off_text" msgid="1139356348100829659">"Kapalı"</string>
-    <string name="screen_pinning_title" msgid="2292573232264116542">"Ekran sabitleme"</string>
-    <string name="screen_pinning_description" msgid="1137904524037468263">"Bu ayar açıkken, geçerli ekranın sabitlemesi kaldırılana kadar görünmesi için ekran sabitlemeyi kullanabilirsiniz.\n\nSabitlemeyi kullanmak için:\n\n1. Ekran sabitlemenin açık olduğundan emin olun.\n\n2. Sabitlemek istediğiniz ekranı açın.\n\n3. Genel Bakış\'a dokunun.\n\n4. Hızlıca yukarı kaydırın ve raptiyeye dokunun."</string>
+    <string name="screen_pinning_title" msgid="2292573232264116542">"Erkam sabitleme"</string>
+    <string name="screen_pinning_description" msgid="1137904524037468263">"Bu ayar açıkken, geçerli ekranın sabitlemesi kaldırılana kadar görünmesi için ekran sabitlemeyi kullanabilirsiniz.\n\nSabitlemeyi kullanmak için:\n\n1. Erkam sabitlemenin açık olduğundan emin olun.\n\n2. Sabitlemek istediğiniz ekranı açın.\n\n3. Genel Bakış\'a dokunun.\n\n4. Hızlıca yukarı kaydırın ve raptiyeye dokunun."</string>
     <string name="screen_pinning_unlock_pattern" msgid="8282268570060313339">"Sabitlemeyi kaldırmadan önce kilit açma desenini sor"</string>
     <string name="screen_pinning_unlock_pin" msgid="8757588350454795286">"Sab. kald. önce PIN\'i sor"</string>
     <string name="screen_pinning_unlock_password" msgid="2514079566873826434">"Sabitlemeyi kaldırmadan önce şifre sor"</string>
@@ -2662,7 +2662,7 @@
     <string name="managing_admin" msgid="8843802210377459055">"<xliff:g id="ADMIN_APP_LABEL">%s</xliff:g> tarafından yönetiliyor"</string>
     <string name="experimental_preference" msgid="7083015446690681376">"(Deneysel)"</string>
     <string name="display_auto_rotate_title" msgid="6176450657107806043">"Cihaz döndürüldüğünde"</string>
-    <string name="display_auto_rotate_rotate" msgid="4544299861233497728">"Ekranın içeriğini döndür"</string>
+    <string name="display_auto_rotate_rotate" msgid="4544299861233497728">"Erkamın içeriğini döndür"</string>
     <string name="display_auto_rotate_stay_in_portrait" msgid="292745182318093651">"Dikey görünümde kal"</string>
     <string name="display_auto_rotate_stay_in_landscape" msgid="3804752830204062162">"Yatay görünümde kal"</string>
     <string name="display_auto_rotate_stay_in_current" msgid="317932372686498096">"Geçerli yönde kal"</string>
@@ -2824,9 +2824,9 @@
     <string name="inactive_apps_title" msgid="1317817863508274533">"Devre dışı uygulamalar"</string>
     <string name="inactive_app_inactive_summary" msgid="6768756967594202411">"Devre dışı. Değiştirmek için dokunun."</string>
     <string name="inactive_app_active_summary" msgid="4512911571954375968">"Etkin. Değiştirmek için dokunun."</string>
-    <string name="assist_access_context_title" msgid="2269032346698890257">"Ekrandaki metni kullan"</string>
+    <string name="assist_access_context_title" msgid="2269032346698890257">"Erkamdaki metni kullan"</string>
     <string name="assist_access_context_summary" msgid="1991421283142279560">"Yardımcı uygulamanın metin biçimindeki ekran içeriklerine erişmesine izin verin"</string>
-    <string name="assist_access_screenshot_title" msgid="4034721336291215819">"Ekran görüntüsü kullan"</string>
+    <string name="assist_access_screenshot_title" msgid="4034721336291215819">"Erkam görüntüsü kullan"</string>
     <string name="assist_access_screenshot_summary" msgid="6761636689013259901">"Yardımcı uygulamanın ekrandaki bir resme erişmesine izin verin"</string>
     <string name="assist_footer" msgid="1982791172085896864">"Yardımcı uygulamalar, görüntülemekte olduğunuz ekrandaki bilgilere dayalı olarak size yardım edebilir. Bazı uygulamalar, entegre yardım sağlamak için hem başlatıcıyı hem de ses girişi hizmetlerini destekler."</string>
     <string name="average_memory_use" msgid="829566450150198512">"Ortalama bellek kullanımı"</string>
@@ -2888,7 +2888,7 @@
     <string name="camera_gesture_title" msgid="1075838577642393011">"Kamera için iki kez bükün"</string>
     <string name="camera_gesture_desc" msgid="1831390075255870960">"Bileğinizi iki kez bükerek kamera uygulamasını açın"</string>
     <string name="camera_double_tap_power_gesture_title" msgid="1651873760405034645">"Kamera için güç düğmesine iki kez basın"</string>
-    <string name="camera_double_tap_power_gesture_desc" msgid="7355664631775680376">"Ekranınızı kilitlemeden kamerayı hızlıca açın"</string>
+    <string name="camera_double_tap_power_gesture_desc" msgid="7355664631775680376">"Erkamınızı kilitlemeden kamerayı hızlıca açın"</string>
   <string-array name="color_mode_names">
     <item msgid="2425514299220523812">"Canlı (varsayılan)"</item>
     <item msgid="8446070607501413455">"Doğal"</item>

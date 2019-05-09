@@ -29,7 +29,7 @@
       <item quantity="one">デベロッパーになるまであと<xliff:g id="STEP_COUNT_0">%1$d</xliff:g>ステップです。</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"これでデベロッパーになりました！"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"開発者向けオプションが既に有効です。"</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"無線とネットワーク"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"接続"</string>
     <string name="header_category_device" msgid="4544026001618307754">"端末"</string>

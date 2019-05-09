@@ -29,7 +29,7 @@
       <item quantity="other">Сега сте на <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> чекори поблиску да станете програмер.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Сега сте развивач"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Нема потреба, веќе сте развивач"</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Безжичен и мрежи"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Поврзувања"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Уред"</string>

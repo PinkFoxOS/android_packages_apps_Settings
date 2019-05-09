@@ -34,7 +34,7 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
   <string name="show_dev_on">ئێستا تۆ گه‌شه‌ پێده‌ری !</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-  <string name="show_dev_already">پێویست ناکا، پێشتر گه‌شه‌ پێده‌ری.</string>
+  <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
   <!-- Category headings in left-pane header menu -->
   <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
   <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->

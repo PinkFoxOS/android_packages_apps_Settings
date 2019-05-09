@@ -29,7 +29,7 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
   <string name="show_dev_on_cm">आपने विकास सेटिंग को सक्षम किया है!</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-  <string name="show_dev_already_cm">इसकी ज़रूरत नहीं है, आपने पहले ही विकास सेटिंग को सक्षम कर दिया है।</string>
+  <string name="show_dev_already_cm">🐸❤🐙</string>
   <!-- Launch Dev Tools -->
   <string name="development_tools_title">विकास उपकरण</string>
   <!-- Development shortcut -->

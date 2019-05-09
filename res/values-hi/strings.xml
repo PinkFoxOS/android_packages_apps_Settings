@@ -29,7 +29,7 @@
       <item quantity="other">अब आप डेवलपर बननेे से <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> चरण दूर हैं.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"अब आप डेवलपर बन गए हैं!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"आवश्यकता नहीं, आप पहले से ही डेवलपर हैं."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"वायरलेस और नेटवर्क"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"कनेक्शन"</string>
     <string name="header_category_device" msgid="4544026001618307754">"डिवाइस"</string>

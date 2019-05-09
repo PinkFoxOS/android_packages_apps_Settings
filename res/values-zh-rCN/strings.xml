@@ -29,7 +29,7 @@
       <item quantity="one">现在只需再执行 <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> 步操作即可进入开发者模式。</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"您现在处于开发者模式！"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"您已处于开发者模式，无需进行此操作。"</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"无线和网络"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"无线和网络"</string>
     <string name="header_category_device" msgid="4544026001618307754">"设备"</string>

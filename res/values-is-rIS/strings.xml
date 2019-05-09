@@ -29,7 +29,7 @@
       <item quantity="other">Nú ertu <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> skrefum frá því að gerast þróunaraðili.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Nú ertu orðin(n) þróunaraðili!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Þetta er óþarfi; þú ert nú þegar þróunaraðili."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Þráðlaus net og símkerfi"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Tengingar"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Tæki"</string>

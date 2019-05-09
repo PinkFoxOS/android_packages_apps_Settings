@@ -29,7 +29,7 @@
       <item quantity="one">您只需完成 <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> 個步驟，即可成為開發人員。</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"您現已成為開發人員！"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"不需要了，您已經是開發人員。"</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"無線與網絡"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"連線"</string>
     <string name="header_category_device" msgid="4544026001618307754">"裝置"</string>

@@ -29,7 +29,7 @@
       <item quantity="one">ឥឡូវនេះអ្នកនៅសល់ <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> ជំហានទៀតដើម្បីក្លាយជាអ្នកអភិវឌ្ឍន៍។</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"ឥឡូវ​អ្នក​ក្លាយ​ជា​អ្នក​អភិវឌ្ឍ​ហើយ!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"មិន​ចាំបាច់​ទេ អ្នក​ជា​អ្នក​អភិវឌ្ឍ​រួច​ហើយ។"</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"ឥត​ខ្សែ &amp; បណ្ដាញ​"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"ការ​តភ្ជាប់"</string>
     <string name="header_category_device" msgid="4544026001618307754">"ឧបករណ៍"</string>

@@ -29,7 +29,7 @@
       <item quantity="one">Вече сте на <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> стъпка от това, да бъдете програмист.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Вече сте програмист!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Не е необходимо – вече сте програмист."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Кабелни и безжични мрежи"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Връзки"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Устройство"</string>

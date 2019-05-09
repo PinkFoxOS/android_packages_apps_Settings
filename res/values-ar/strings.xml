@@ -33,7 +33,7 @@
       <item quantity="one">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوة واحدة (<xliff:g id="STEP_COUNT_0">%1$d</xliff:g>).</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"لقد أصبحت الآن مطور برامج!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"لا حاجة لذلك، فأنت مطور برامج فعلاً."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"اللاسلكي والشبكات"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"الاتصالات"</string>
     <string name="header_category_device" msgid="4544026001618307754">"الجهاز"</string>

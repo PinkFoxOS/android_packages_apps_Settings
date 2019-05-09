@@ -29,7 +29,7 @@
       <item quantity="other">Du er nu <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> skridt fra at være udvikler.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Nu er du udvikler."</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Det behøver du ikke. Du er allerede udvikler."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Trådløs og netværk"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Forbindelser"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Enhed"</string>

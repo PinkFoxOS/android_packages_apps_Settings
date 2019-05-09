@@ -29,7 +29,7 @@
       <item quantity="one">Сиздин иштеп чыгуучу болушуңузга <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> кадам калды.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Сиз өндүрүүчү болдуңуз!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Кереги жок, сиз өндүрүүчү болгонсуз."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Зымсыз &amp; тармактар"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Туташуулар"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Түзмөк"</string>

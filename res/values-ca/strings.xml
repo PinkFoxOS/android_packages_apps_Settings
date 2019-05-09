@@ -29,7 +29,7 @@
       <item quantity="one">Ara només et queda <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> pas per convertir-te en desenvolupador.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Ara ja ets un desenvolupador"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"No és necessari, ja ets un desenvolupador"</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Connexions sense fil i xarxes"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Connexions"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Dispositiu"</string>

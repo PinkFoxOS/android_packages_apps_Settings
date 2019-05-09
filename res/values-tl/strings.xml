@@ -29,7 +29,7 @@
       <item quantity="other"><xliff:g id="STEP_COUNT_1">%1$d</xliff:g> na hakbang na lang, magiging developer ka na.</item>
     </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Isa ka nang developer!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Hindi na kailangan, isa ka nang developer."</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"🐸❤🐙"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Wireless &amp; mga network"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Mga Koneksyon"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Device"</string>
